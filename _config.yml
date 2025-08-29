@@ -1,9 +1,0 @@
-title: estoyharto
-description: "GitHub Pages + Jekyll + Decap CMS"
-url: "https://blinkx-original.github.io"   # your GitHub Pages domain
-baseurl: "/estoyharto"                      # repo name, keep leading slash
-theme: minima
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed

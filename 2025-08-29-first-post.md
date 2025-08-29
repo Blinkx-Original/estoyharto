@@ -1,0 +1,7 @@
+---
+layout: post
+title: "First post"
+date: 2025-08-29 12:00:00 +0000
+---
+
+This is a sample post created to verify the Minima theme.

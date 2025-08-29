@@ -1,4 +1,4 @@
 title: My Site
-theme: jekyll-theme-minima   # simple built-in theme (works on Pages)
+theme: jekyll-theme-cayman   # simple built-in theme (works on Pages)
 plugins:
   - jekyll-seo-tag

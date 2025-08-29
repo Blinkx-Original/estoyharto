@@ -1,9 +1,0 @@
-title: estoyharto
-description: "GitHub Pages with Cayman + Decap CMS"
-url: "https://blinkx-original.github.io"
-baseurl: "/estoyharto"
-theme: jekyll-theme-cayman
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed

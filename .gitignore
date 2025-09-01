@@ -1,0 +1,11 @@
+# Archivos de sistema (macOS)
+.DS_Store
+
+# Archivos de Obsidian (configuración personal, no son posts)
+.obsidian/
+*.canvas
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
